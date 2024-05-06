@@ -1,6 +1,8 @@
 <!-- Título -->
 # Estruturas de Repetição ou Iteração
 
+Explorando a Eficiência: Módulo de Estruturas de Repetição ou Iteração em Lógica para Programação.
+
 ***Conteúdo do Módulo:***
 
 * [ ] [Introdução.](https://github.com/Devgeeknerd/cla-int-est-rep-ite-log-pra-pro-com-bas) &#128679;
